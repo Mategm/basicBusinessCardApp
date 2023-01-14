@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="Name">Máté Gábor</string>
+    <string name="title">Beginner Developer on Android</string>
+    <string name="phone_number">+36 30 402-37-13</string>
+    <string name="share">fb.com/mategm</string>
+    <string name="email">info@mategabor.org</string>
+</resources>
